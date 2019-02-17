@@ -56,13 +56,13 @@ const IndexPage = (props) => (
     This stage of Egg tempera painting is very different from the Oil painting where I am used to finding forms 
     <i> gradually</i>. I had to draw the entire composition on paper and then transfer it to the panel by 
     covering the back of the drawing with soft pencil, and then drawing hard over the outlines of each figure.<br />
-    But that's only a small part of the preparation for painting. I drew toy people twice the size of figures in the final painting, 
+    But that's only a small part of the preparation for painting. I drew toy people double the size of figures in the final painting, 
     to understand how to render the form with hatches and crosshatches:</p>
 
     <Img fluid={props.data.imageThree.childImageSharp.fluid} /><p />
-    <p>In the process, that guy in the middle lost his pirate hat and got a knit hat instead, and the girl with a glass turned her head,
-       while the police woman's stare became more prying (and what could the guy say in his defence? "Officer, 
-      <span id="back-note2"><i> he who would not languish amongst men, must learn to drink out of dirty 
+    <p>Later, in the painting, that character in the pirate hat was given a knit hat instead, and the girl with a glass turned her 
+      head away, while the policewoman and the hazmat man stared more pryingly.<br />(And what could the guy say in his defence? 
+      "Officers, <span id="back-note2"><i> he who would not languish amongst men, must learn to drink out of dirty 
         glasses."</i> ?<sup><a href="#note2"> 2</a></sup></span>):
     </p>
     <Img fluid={props.data.imageTwo.childImageSharp.fluid} /><p />
@@ -76,10 +76,10 @@ const IndexPage = (props) => (
     </p>
 
     <h4>The sea and the clouds</h4>
-    <p>I painted the background with oil wet on wet, <i> alla prima</i>, not<span id="back-note3"> tempera. 
-    <sup><a href="#note3"> 3</a></sup></span><br />
-       Tempera's precision would only hide or take away water's natural qualities, and be reductive for no other reason but a foolish
-       adherence to one medium. But when used to paint toys, tempera revealed and amplified their symobolic medieval nature.
+    <p>I painted the background in <span id="back-note3">oil <sup><a href="#note3"> 3</a></sup></span> 
+    <i> alla prima</i> (wet on wet). <br />
+       In this instance tempera would be too harsh, and will take away water's natural qualities. 
+       But it is perfect for toys. It reveals and amplifies their symobolic medieval character.
        To reveal - that's the whole point.</p>
 
     <h4>More thinking</h4>

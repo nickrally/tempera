@@ -88,7 +88,7 @@ const IndexPage = (props) => (
       It is not a medium, it is a <span id="back-note5"> discipline. <sup><a href="#note5"> 5 </a></sup></span>
       But don't be a technical purist. <br />
       More important is how you draw things.  You have to treat objects seriously, everything else is 
-      <span id="back-note6"> a trick.<sup><a href="#note6"> 6</a></sup></span><br />
+      <span id="back-note6"> tricks.<sup><a href="#note6"> 6</a></sup></span><br />
       Take how van Gogh painted a pair of shoes. He worked for immortality. Not his immortality, but for the immortality of
       what that pair of shoes symbolically<span id="back-note7"> meant.<sup><a href="#note6"> 7</a></sup></span></p>
 

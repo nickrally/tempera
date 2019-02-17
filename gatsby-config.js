@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Notes on Egg Tempera Painting',
   },
   plugins: [
     {

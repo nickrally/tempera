@@ -11,7 +11,6 @@ Kick off your project with this default boilerplate. This barebones starter ship
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://next.gatsbyjs.org/docs/gatsby-starters/)._
 
-
 ## 🚀 Quick start
 
 1.  **Install the Gatsby CLI.**

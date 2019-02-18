@@ -21,7 +21,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node src/pages/index.js",
     "build": "webpack",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",

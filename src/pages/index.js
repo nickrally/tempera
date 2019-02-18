@@ -18,13 +18,13 @@ const IndexPage = (props) => (
       this Peter Bruegel style God's view of busy toy people searching for a prophet.
     </p>
     
-    <p>Here is tempera painting up close:</p>
+    <p>Here is tempera painting upclose:</p>
     <Img fluid={props.data.imageFour.childImageSharp.fluid} /><p />
 
     <h4>I did not mix my own paints</h4>
     <p>You can paint with egg tempera without breaking eggs.<br />
     There is probably some oil binder in egg tempera that is sold in tubes, and preservatives too, and <i>Sennelier</i> keeps
-    its recipe secret, but nothing will convince you more that you are working with egg tempera straight 
+    its recepie secret, but nothing will convince you more that you are working with egg tempera straight 
     out of tubes than an occasional tube that smells of rotting decay when you open it. Throw that tube away and smell each tube before 
     you buy.<br />
     I don't work in 14th century workshop with apprentices who mix my paints. What makes or breaks my painting is not where 
@@ -38,7 +38,7 @@ const IndexPage = (props) => (
     
     <h4>I did not cook rabbit skin glue for my ground</h4>
 
-    <p>You can find traditional recipes for a real gesso ground. If you decide to use contemporary 
+    <p>You can find traditional recepies for a real gesso ground . If you decide to use contemporary 
       alternatives, don't buy cheep stuff. Use high quality medium to prevent oil from tempered hardboard to leach through 
       acrylic gesso, and high quality acrylic gesso specifically made for hard surfaces (not for canvas).<br /> 
       Prime both sides of your panel with equal number of layers. <br />
@@ -47,7 +47,7 @@ const IndexPage = (props) => (
       Tempered hardboard is less prone to warping. Don't paint on tempered (smooth) side if you use tempered hardboard. 
       Paint on the other side, and add enough layers to get it as smooth as you need it to be. <br />
       Large panels will be
-      <span id="back-note1"> heavy <sup><a href="#note0"> 1</a></sup></span>. There are reasons why Venetians switched to oil on canvas.
+      <span id="back-note1"> heavy <sup><a href="#note0"> 1</a></sup></span>. There are reasons why Venitians switched to oil on canvas.
   </p>    
 
     <h4>Drawing</h4>
@@ -70,7 +70,7 @@ const IndexPage = (props) => (
     <p>
     <Img fluid={props.data.imageFive.childImageSharp.fluid} /><p />
     <p>Speaking of fixing mistakes, the Magician's cape turned out muddy the first time. 
-       You can't paint over a bad part directly - you have to cover it with the gesso as if it never happened, before
+       You can't paint over a bad part directly - you have to cover it with the gesso as if it never happned, before
        painting over it. </p>
     <Img fluid={props.data.imageSix.childImageSharp.fluid} />
     </p>
@@ -79,7 +79,7 @@ const IndexPage = (props) => (
     <p>I painted the background in <span id="back-note3">oil <sup><a href="#note3"> 3</a></sup></span> 
     <i> alla prima</i> (wet on wet). <br />
        In this instance tempera would be too harsh, and will take away water's natural qualities. 
-       But it is perfect for toys. It reveals and amplifies their symbolic medieval character.
+       But it is perfect for toys. It reveals and amplifies their symobolic medieval character.
        To reveal - that's the whole point.</p>
 
     <h4>More thinking</h4>

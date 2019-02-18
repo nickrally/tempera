@@ -21,7 +21,8 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "start": "node src/index.js",
+    "build": "webpack",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1",
